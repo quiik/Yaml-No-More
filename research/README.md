@@ -1,4 +1,4 @@
-# Optimal ML modules 
+# Optimal ML Models
 
 Context: I am no ML expert so this will be a interesting project. While I build this out I will put most of my learnings under the research folder. 
 
